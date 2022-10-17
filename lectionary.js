@@ -43,7 +43,7 @@ function changeDate() {
 }
 
 // data retrieval
-const URL = 'lectionary_webpage.json';
+const URL = 'lectionary.json';
 
 function getData(){
   fetch(URL)
